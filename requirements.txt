@@ -1,0 +1,6 @@
+google-generativeai
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-huggingface
+python-dotenv
+streamlit
